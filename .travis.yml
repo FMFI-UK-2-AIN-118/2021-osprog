@@ -1,0 +1,4 @@
+if: type = pull_request
+language: cpp
+dist: focal
+script: test/travis.sh
