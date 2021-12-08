@@ -18,11 +18,6 @@ Labs
 * [Lab 10](l10) (buffer overflow)
 * [Lab 11](l11) (ps, bonus)
 
-Assignments
------------
-
-TBA
-
 Grades
 -------
 
